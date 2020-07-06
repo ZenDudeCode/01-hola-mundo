@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+
+footer {
+    color: white;
+    /* color del texto*/
+    position: fixed;
+    /* la ubicaci'on*/
+    bottom: 0px;
+    width: 100%;
+    /* ancho*/
+}
